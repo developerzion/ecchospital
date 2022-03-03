@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/logo.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -53,7 +53,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">Medilab</a></h1>
+      <h1 class="logo me-auto"><a href="index.html">Med<img src="assets/img/logo.png" /> </a></h1>
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
@@ -71,14 +71,27 @@
     </div>
   </header><!-- End Header -->
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
-    <div class="container">
-      <h1 style="color:#18558a">Welcome to Medilab</h1>
-      <p>We are team of talented designers making websites with Bootstrap</p>
-      <a href="#about" class="btn-get-started scrollto">Get Started</a>
-    </div>
-  </section><!-- End Hero -->
+
+  <section id="#" class="about">
+      <div class="container-fluid">
+        <div class="row">
+        <div class="col-xl-6 col-lg-6 d-flex justify-content-center align-items-stretch position-relative">
+            <img class="img-fluid" src="./assets/img/doc.png" />
+          </div>
+
+          <div class="col-xl-5 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
+            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p>
+
+           
+
+          </div>
+          
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+ 
 
   <main id="main">
 
