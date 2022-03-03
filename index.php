@@ -72,23 +72,17 @@
   </header><!-- End Header -->
 
 
-  <section id="#" class="about">
+  <section id="#" style="margin-top: 5rem;">
       <div class="container-fluid">
         <div class="row">
         <div class="col-xl-6 col-lg-6 d-flex justify-content-center align-items-stretch position-relative">
             <img class="img-fluid" src="./assets/img/doc.png" />
           </div>
-
           <div class="col-xl-5 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
             <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
             <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p>
-
-           
-
           </div>
-          
         </div>
-
       </div>
     </section><!-- End About Section -->
  
@@ -98,7 +92,6 @@
     <!-- ======= Why Us Section ======= -->
     <section id="why-us" class="why-us">
       <div class="container">
-
         <div class="row">
           <div class="col-lg-4 d-flex align-items-stretch">
             <div class="content">
