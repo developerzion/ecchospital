@@ -25,6 +25,10 @@
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
@@ -75,13 +79,14 @@
   <section id="#" style="margin-top: 5rem;">
       <div class="container-fluid">
         <div class="row">
-        <div class="col-xl-6 col-lg-6 d-flex justify-content-center align-items-stretch position-relative">
+          <div class="col-xl-6 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center  px-lg-5">
+            <h1 class="display-1">Reach your <span class="div-underline">health <img class="underline animate__animated animate__infinite animate__tada animate__slow" src="./assets//img/underline.svg" /></span>potential</h1>
+            <p>A resource for everyday life, not the objective of living. Health is a positive concept emphasizing social and personal resources, as well as physical capacities.</p>
+          </div>
+          <div class="col-xl-6 col-lg-6 d-flex justify-content-center align-items-stretch position-relative">
             <img class="img-fluid" src="./assets/img/doc.png" />
           </div>
-          <div class="col-xl-5 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p>
-          </div>
+          
         </div>
       </div>
     </section><!-- End About Section -->
@@ -97,8 +102,7 @@
             <div class="content">
               <h3>Why Choose Medilab?</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+              Our reputation for outstanding care and family-like atmosphere, together with advanced medical technology and facilities ensures we attract leading consultants and specialists from the industry to work with us. All our clinicians are board-certified and come with very high credentials within their field of speciality. 
               </p>
               <div class="text-center">
                 <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
@@ -558,11 +562,9 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
