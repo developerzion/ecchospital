@@ -346,8 +346,6 @@
       </div>
     </section><!-- End Departments Section -->
 
-   
-
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
       <div class="container">
